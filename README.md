@@ -1,2 +1,2 @@
 # euskalmet 🌦️
-Euskalmet-ko estazioen irakurketak lantzeko biltegia. [...garatzen...]
+Euskalmet-eko estazioen irakurketak lantzeko biltegia. [...garatzen...]
